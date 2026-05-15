@@ -1,3 +1,5 @@
 # OrnivaDS
 
-Last updated: 2026-05-14
+Design system repository.
+
+Last updated: 2026-05-15
